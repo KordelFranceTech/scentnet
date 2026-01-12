@@ -15,17 +15,15 @@ annotations_creators:
 - machine-generated
 language_creators:
 - expert-created
-language_details:
-- en-US
 pretty_name: ScentNet
 size_categories:
-- 500000
+- 100K<n<1M
 source_datasets:
 - GoodScents
 - LeffingWell
 - COCO
 ---
-ScentNet
+# ScentNet
 ----
 
 <div align="center">
@@ -39,6 +37,7 @@ ScentNet
 
 </div>
 
+Coming Soon.
 
 ScentNet is a large open multimodal dataset for the advancement of olfaction in AI and robotics.
 
@@ -52,7 +51,7 @@ Sigma is available for free on the Apple App Store [here](https://apps.apple.com
 
 ## Dataset Description
 
-- **Modalities**: Olfaction, Vision, Language
+- **Modalities**: Olfaction, Vision, Language, Inertial, Lidar, Audio, Environmental
 
 - **Data Format**:
   All sensor streams are synchronized and stored in a standardized JSON / NoSQL format.

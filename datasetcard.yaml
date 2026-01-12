@@ -22,7 +22,7 @@ language_details:
 - en-US
 pretty_name: OVLM
 size_categories:
-- 118000
+- 100K<n<1M
 source_datasets:
 - GoodScents
 - LeffingWell
