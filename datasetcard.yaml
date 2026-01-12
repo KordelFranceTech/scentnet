@@ -23,10 +23,6 @@ language_details:
 pretty_name: OVLM
 size_categories:
 - 100K<n<1M
-source_datasets:
-- GoodScents
-- LeffingWell
-- COCO
 task_categories:
 - image-classification
 - image-to-text

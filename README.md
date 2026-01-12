@@ -18,10 +18,6 @@ language_creators:
 pretty_name: ScentNet
 size_categories:
 - 100K<n<1M
-source_datasets:
-- GoodScents
-- LeffingWell
-- COCO
 ---
 # ScentNet
 ----
